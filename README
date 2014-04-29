@@ -1,1 +1,15 @@
-Home of Crier, a TS3 Gaming overlay
+Home of Crier, a TS3 Gaming overlay for the Sanctum community. 
+
+Structure
+~/sanctum-crier/
+~/sanctum-crier/bin
+~/sanctum-crier/doc
+~/sanctum-crier/source
+~/sanctum-crier/source/project
+~/sanctum-crier/include
+~/sanctum-crier/assets
+~/sanctum-crier/assets/audio
+~/sanctum-crier/assets/png
+
+
+
